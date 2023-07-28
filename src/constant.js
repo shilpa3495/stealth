@@ -1,0 +1,1 @@
+export const baseUrl="https://64b8129f21b9aa6eb0798604.mockapi.io/job"
